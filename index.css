@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: aliceblue;
+    
+  }
+  header {
+    text-align: center;
+    text-decoration-color: rgb(15, 15, 122);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1vw;
+    background-color: #B5CB99;
+ }
+ 
+ .nav-links ul {
+       display: flex;
+       list-style-type: none;
+ }
+ 
+ .nav-links li a {
+      text-decoration: none;
+      color: black;
+      margin: 0 14px;
+ }
+ 
